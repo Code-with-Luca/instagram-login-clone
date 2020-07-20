@@ -68,6 +68,7 @@ form button i {
   border: 1px solid lightgrey;
   padding: 20px;
   background-color: white;
+  max-width: 370px;
 }
 
 .form img {
